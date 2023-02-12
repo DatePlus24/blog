@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dateplus24.github.io/blog/sitemap.xml

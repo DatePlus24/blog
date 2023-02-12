@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dateplus24",
+    "description": "",
+    "home_page_url": "https://dateplus24.github.io/blog",
+    "feed_url": "https://dateplus24.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+    ]
+}
